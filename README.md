@@ -1,6 +1,6 @@
 ## Hi, I'm Diogo 👋
 
-Staff AI/ML Engineer · Ph.D. in Physics · Lisbon, Portugal 🇵🇹
+Lead AI/ML Engineer · Ph.D. in Physics · Lisbon, Portugal 🇵🇹
 
 I build ML systems that operate on large-scale, high-velocity data — currently at [EY-Parthenon](https://www.ey.com/en_gl/services/strategy/parthenon), shipping agentic systems, LLM integrations, and platform-level data pipelines in the Europe West AI Hub. Before that, I spent four years at [EDP](https://www.edp.com) on time-series forecasting, portfolio optimisation, and LLM-powered automation for energy markets, and six years at CERN's CMS experiment hunting for supersymmetry and tinkering with quantum machine learning.
 
